@@ -1,1 +1,1 @@
-# data-eng-camp
+# DataTalks Club DE Zoomcamp
